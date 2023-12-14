@@ -1,0 +1,3 @@
+# EaglercraftX
+
+##### No singleplayer unfortunately :(
